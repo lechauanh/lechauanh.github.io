@@ -1,5 +1,5 @@
 <link rel="shortcut icon" type="image/jpg" 
-      href="{{ "https://pngimage.net/wp-content/uploads/2018/06/ice-bear-we-bare-bears-png-8.jpg/assets/images/favicon.jpg"  | absolute_url }}">
+      href="{{ "https://github.com/lechauanh/lechauanh.github.io/blob/main/ice-bear-we-bare-bears-png-8.jpg/assets/images/favicon.jpg"  | absolute_url }}">
 ## Welcome to Chau Anh's page
 Name: Le Chau Anh
 
