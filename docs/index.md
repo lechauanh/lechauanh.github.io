@@ -1,8 +1,9 @@
 ## Who I Am?
-Name: Le Chau Anh
+Name: Le Chau Anh</p>
+Nickname: Chew Eng/Chow Ank
 
-Nickname: Chew Eng / ChowAnk
 ![alt](https://www.pexels.com/vi-vn/anh/11220673/)
+
 * MSSV: 21521821
 * Date of birth: 25/03/2003
 * Hometown: Bac Giang
