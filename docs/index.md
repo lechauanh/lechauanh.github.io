@@ -1,9 +1,9 @@
 ## Who Am I?
-Name: Le Chau Anh<p/>
-
-Nickname: Chew Eng/Chow Ank
 
 <img src="https://images.pexels.com/photos/11220673/pexels-photo-11220673.png?auto=compress&cs=tinysrgb&h=750&w=1260" />
+
+Name: Le Chau Anh</p>
+Nickname: Chew Eng/Chow Ank
 
 * MSSV: 21521821
 * Date of birth: 25/03/2003
