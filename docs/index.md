@@ -1,4 +1,3 @@
-favicon: ib.png
 ## Welcome to Chau Anh's page
 Name: Le Chau Anh
 
