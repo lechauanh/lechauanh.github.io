@@ -2,15 +2,18 @@
 
 <img src="https://images.pexels.com/photos/11220673/pexels-photo-11220673.png?auto=compress&cs=tinysrgb&h=750&w=1260" />
 
-Name: Le Chau Anh</p>
-Nickname: Chew Eng/Chow Ank
+Name: Le Chau Anh
+
+Nickname: Chew Eng / Chow Ank
 
 * MSSV: 21521821
 * Date of birth: 25/03/2003
 * Hometown: Bac Giang
 * Major: Computer Science
 * Class: KHTN2021
-* Hobbies: Listening to music, Watching movies, Reading Books, Sleeping, ...
+* Hobbies: Listening to music, Reading Books, Traveling, Sleeping...
+
+~ ***None of us are really marute. We are just kids learning to be mature*** ~
 
 ### Education
 2021-Now: Ho Chi Minh Unversity of Information Technology
