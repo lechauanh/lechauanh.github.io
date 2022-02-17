@@ -1,13 +1,13 @@
-## Welcome to Chau Anh's page
+## Who I Am?
 Name: Le Chau Anh
-
-<img align="right" alt="GIF" height="280px" src="https://scontent.fvca1-1.fna.fbcdn.net/v/t39.30808-6/270267586_478374490354806_1302525087900985776_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=AfxaktXtjDsAX8jEwYD&_nc_ht=scontent.fvca1-1.fna&oh=00_AT9q8avvPDe-Jo2zSwmgf6d27L-M8OPSuaBz3E7D08bQEA&oe=61D7FBA5" />
+Nickname: Chew Eng / ChowAnk
+<img align="right" alt="GIF" height="280px" src="https://www.pexels.com/vi-vn/anh/11220673/" />
 * MSSV: 21521821
 * Date of birth: 25/03/2003
 * Hometown: Bac Giang
 * Major: Computer Science
 * Class: KHTN2021
-* Hobbies: Listening to music, Watching movies, Reading Books, Sleeping...
+* Hobbies: Listening to music, Watching movies, Reading Books, Sleeping, ...
 
 ### Education
 2021-Now: Ho Chi Minh Unversity of Information Technology
