@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://github.com/lechauanh/lechauanh.github.io/blob/main/ib.png/favicon.ico">
+favicon: ib.png
 ## Welcome to Chau Anh's page
 Name: Le Chau Anh
 
