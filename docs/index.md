@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="ice-bear-we-bare-bears-png-8.jpg/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://github.com/lechauanh/lechauanh.github.io/blob/main/ib.png/favicon.ico">
 ## Welcome to Chau Anh's page
 Name: Le Chau Anh
 
