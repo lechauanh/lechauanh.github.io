@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to M.Hoang's page
+Name: Le Minh Hoang
+<img align="right" alt="GIF" height="280px" src="https://scontent.fvca1-1.fna.fbcdn.net/v/t39.30808-6/270267586_478374490354806_1302525087900985776_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=AfxaktXtjDsAX8jEwYD&_nc_ht=scontent.fvca1-1.fna&oh=00_AT9q8avvPDe-Jo2zSwmgf6d27L-M8OPSuaBz3E7D08bQEA&oe=61D7FBA5" />
+* MSSV: 21522089
+* Date of birth: 10/08/2003
+* Hometown: Ba Ria - Vung Tau
+* Major: Computer Science
+* Class: KHMT2021
+* Hobbies: Cooking, Singing, Playing guitar,.....
 
-You can use the [editor on GitHub](https://github.com/lechauanh/lechauanh.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+2018-2020: Song Ray Highschool
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2020-2021: Nguyen Khuyen Highschool
 
-### Markdown
+2021: Ho Chi Minh University of Information and Technology
+## Language
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Looking forward to learning
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lechauanh/lechauanh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lmhoang1008/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21522089@gm.uit.edu.vn)
