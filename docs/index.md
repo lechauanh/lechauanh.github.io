@@ -1,4 +1,4 @@
-favicon: ice-bear-we-bare-bears-png-8.jpg
+<link rel="shortcut icon" type="image/x-icon" href="ice-bear-we-bare-bears-png-8.jpg/favicon.ico">
 
 ## Welcome to Chau Anh's page
 Name: Le Chau Anh
