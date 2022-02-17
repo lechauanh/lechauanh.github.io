@@ -1,2 +1,2 @@
-favicon: favicon: images/ib.png
+<link rel="shortcut icon" type="image/png" href="ib.png"
 theme: jekyll-theme-minimal
