@@ -1,4 +1,3 @@
-<link rel = "shortcut icon" type = "image / x-icon" href = "ib.png / favicon.ico">
 ## Welcome to Chau Anh's page
 Name: Le Chau Anh
 
