@@ -2,7 +2,7 @@
 Name: Le Chau Anh</p>
 Nickname: Chew Eng/Chow Ank
 
-![alt](https://www.pexels.com/vi-vn/anh/11220673/)
+<img  src="https://www.pexels.com/vi-vn/anh/11220673/" />
 
 * MSSV: 21521821
 * Date of birth: 25/03/2003
