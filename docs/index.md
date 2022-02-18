@@ -2,13 +2,13 @@
 
 <img src="https://images.pexels.com/photos/11220673/pexels-photo-11220673.png?auto=compress&cs=tinysrgb&h=750&w=1260" />
 
-Full name: Le Chau Anh
+**Full name:** Le Chau Anh
 
-* MSSV: 21521821
-* Date of birth: 25/03/2003
-* Major: Computer Science
-* Class: KHTN2021
-* Hobbies: Listening to music, Reading Books, Traveling, Sleeping...
+* **MSSV:** 21521821
+* **Date of birth:** 25/03/2003
+* **Major:** Computer Science
+* **Class:** KHTN2021
+* **Hobbies:** Listening to music, Reading Books, Traveling, Sleeping...
 
 ~ ***None of us are really marute. We are just kids learning to be mature*** ~
 
